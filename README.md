@@ -1,4 +1,4 @@
-# JavaPracticeCode
+# Java Threads
 
 Practicing Threads 
 It shows :
