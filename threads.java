@@ -1,5 +1,5 @@
-//Practical 6
-//design a java class to implement a thread.(date and time)
+
+//Design a java class to implement a thread.(date and time)
 
 package tt;
 import java.util.*;
